@@ -7,7 +7,7 @@ import (
 	"encoding/csv"
 	"bufio"
 	"io"
-	"github.com/alldroll/go-datastructures/cdb"
+	"github.com/alldroll/cdb"
 	"log"
 )
 
